@@ -1,2 +1,2 @@
 # MBAYAM GUELBE PHILEMON
-ingenieur informaticien option developpeur d'application web/mobile et data analyst
+ingenieur informaticien/developpeur d'application web && mobile, data analyst, agent enquêteur de terrain
