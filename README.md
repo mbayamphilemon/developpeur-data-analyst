@@ -1,6 +1,6 @@
 # Mini-projet SQL — Secteur Minier au Mali
 
-Mini-projet PostgreSQL pour s'entraîner sur : `SELECT`, `WHERE`, `ORDER BY`, `COUNT`, `SUM`, `MIN`, `MAX`, `AVG`, `HAVING`, `LIMIT`.
+Dans le but de prouver mes compétences dans l'analyse de données j'ai choisi ce mini projet Mini projet PostgreSQL pour m'entraîner sur : `SELECT`, `WHERE`, `ORDER BY`, `COUNT`, `SUM`, `MIN`, `MAX`, `AVG`, `HAVING`, `LIMIT` afin d'apporter des solutions dans le domaine de data, ces données ont été fournies à l'aide de CLAUDE.
 
 ## Contenu du projet
 
@@ -21,23 +21,6 @@ Mini-projet PostgreSQL pour s'entraîner sur : `SELECT`, `WHERE`, `ORDER BY`, `C
 
 Toutes les tables `employes`, `equipements`, `productions` et `exportations` référencent `sites_miniers` via `site_id`.
 
-## Comment exécuter le projet dans PostgreSQL
-
-```bash
-psql -U postgres -f 01_creer_base.sql
-psql -U postgres -d mines_mali -f 02_creer_tables.sql
-psql -U postgres -d mines_mali -f 03_inserer_donnees.sql
-```
-
-Ou, dans `psql` :
-
-```sql
-\i 01_creer_base.sql
-\c mines_mali
-\i 02_creer_tables.sql
-\i 03_inserer_donnees.sql
-```
-
 ## 10 questions business à résoudre avec SQL
 
 1. Quels sont les 5 sites miniers ayant la plus grande superficie (`superficie_km2`) ?
@@ -54,5 +37,4 @@ Ou, dans `psql` :
 ## Objectif
 
 - Exécuter les requêtes SQL pour répondre aux 10 questions ci-dessus.
-- Documenter les résultats obtenus (dans ce README ou un fichier séparé `RESULTATS.md`).
-- Pousser le projet complet sur GitHub.
+- Documenter les résultats obtenus (dans ce README ou un fichier séparé `RESULTATS.md`)..
