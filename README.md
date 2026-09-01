@@ -1,6 +1,6 @@
 # Mini-projet SQL — Secteur Minier au Mali
 
-Dans le but de prouver mes compétences dans l'analyse de données j'ai choisi ce mini projet Mini projet PostgreSQL pour m'entraîner sur : `SELECT`, `WHERE`, `ORDER BY`, `COUNT`, `SUM`, `MIN`, `MAX`, `AVG`, `HAVING`, `LIMIT` afin d'apporter des solutions dans le domaine de data, ces données ont été fournies à l'aide de CLAUDE.
+Dans le but de prouver mes compétences dans l'analyse de données notamment avec SQL/PostgreSQL j'ai choisi ce mini projet Mini projet PostgreSQL pour m'entraîner sur : `SELECT`, `WHERE`, `ORDER BY`, `COUNT`, `SUM`, `MIN`, `MAX`, `AVG`, `HAVING`, `LIMIT` afin d'apporter des solutions dans le domaine de data, ces données ont été fournies à l'aide de CLAUDE.
 
 ## Contenu du projet
 
